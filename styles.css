@@ -12,10 +12,11 @@
   padding: 16px 10px;
   border-radius: 20px;
   cursor: pointer;
+  background-color: rgba(109, 109, 238, 0.845);
 }
 
 .action-btn:hover {
-  background: rgb(200, 200, 200);
+  background-color: rgba(186, 186, 243, 0.845);
 }
 
 #content {
